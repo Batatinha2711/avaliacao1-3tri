@@ -1,0 +1,21 @@
+img{
+    width: 300px;
+    height: 300px;
+    margin: 50px;
+}
+.cabecalho{ 
+    background-color:  blueviolet;
+    display: flex;
+} 
+.logocabecalho{ 
+    display: flex;
+    margin-left: 500px;
+}
+.item_lista_cabecalho{ 
+    font-size: 30px;
+    color: black;
+    padding-left: 15px;
+ 
+}
+
+ 
